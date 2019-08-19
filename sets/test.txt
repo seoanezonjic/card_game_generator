@@ -1,0 +1,51 @@
+name	img	text	score
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1
+troll	trollface.jpg	text	5
+me gusta	ilikeit.jpg	text2	1

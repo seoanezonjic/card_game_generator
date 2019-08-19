@@ -1,0 +1,31 @@
+<%
+# parameters
+card_number_per_page=8*6
+#-------------------------------
+cards = 1
+new_pack = true
+set.each do |card| 
+%>
+	<%if new_pack %>
+		<% new_pack = false %>
+		<div style="overflow: hidden; page-break-after: always;">
+	<%end%>
+
+	<div style="border-style: solid; height: 150; width: 150; float:left">
+		<p style="text-align: center"><b> <%= card['name'] %> </b></p> 
+		<img style="display: block; margin-left: auto; margin-right: auto" 
+			src="<%= ins_img(card['img']) %>" 
+			height="30%" 
+			width="30%"
+		>
+		<p style="text-align: right; padding: 5 "><b> <%= card['score'] %> </b></p> 
+	</div>
+
+	<%if cards % card_number_per_page == 0 || cards == set.length %>
+		<% new_pack = true %>
+		</div>	
+	<%end%>
+<%
+	cards += 1
+end 
+%>

@@ -1,0 +1,1 @@
+.\card_generator.rb -s test.txt -t CAH -w 'C:\wkhtmltopdf\bin\wkhtmltopdf.exe' 
